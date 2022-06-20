@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@ethersproject/abi": "^5.6.1",
-    "@ethersproject/solidity": "^5.0.9",
+    "@ethersproject/solidity": "^5.6.0",
     "@uniswap/sdk-core": "^3.0.1",
     "@uniswap/v3-periphery": "^1.4.1",
     "@uniswap/v3-staker": "1.0.0",
